@@ -1,6 +1,6 @@
-package test.creational;
+package test.creational.singleton;
 
-import main.creational.SingletonStaticBlock;
+import main.creational.singleton.SingletonStaticBlock;
 
 class SingletonStaticBlockTest {
 

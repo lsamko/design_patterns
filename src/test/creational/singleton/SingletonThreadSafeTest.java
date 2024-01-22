@@ -1,7 +1,7 @@
-package test.creational;
+package test.creational.singleton;
 
 
-import main.creational.SingletonThreadSafe;
+import main.creational.singleton.SingletonThreadSafe;
 
 class SingletonThreadSafeTest {
 

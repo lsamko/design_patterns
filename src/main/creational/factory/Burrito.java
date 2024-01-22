@@ -1,5 +1,9 @@
 package main.creational.factory;
 
-public class Burrito {
+public class Burrito implements Shape{
 
+    @Override
+    public String getShape() {
+        return "Cylinder";
+    }
 }

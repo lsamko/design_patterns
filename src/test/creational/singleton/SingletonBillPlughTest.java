@@ -1,7 +1,7 @@
-package test.creational;
+package test.creational.singleton;
 
 
-import main.creational.SingletonBillPlugh;
+import main.creational.singleton.SingletonBillPlugh;
 
 class SingletonBillPlughTest {
 

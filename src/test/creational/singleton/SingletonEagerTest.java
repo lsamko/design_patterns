@@ -1,7 +1,7 @@
-package test.creational;
+package test.creational.singleton;
 
 
-import main.creational.SingletonEager;
+import main.creational.singleton.SingletonEager;
 
 class SingletonEagerTest {
 

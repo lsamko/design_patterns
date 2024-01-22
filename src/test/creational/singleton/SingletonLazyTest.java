@@ -1,6 +1,6 @@
-package test.creational;
+package test.creational.singleton;
 
-import main.creational.SingletonLazy;
+import main.creational.singleton.SingletonLazy;
 
 class SingletonLazyTest {
 
