@@ -1,11 +1,0 @@
-
-v
-java:S1104"TMake cityBike a static final constant or non-public and provide accessors if needed.(´›šğüÿÿÿÿ8¸¿˜Ó1
-p
-java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¢¦ˆÍ8’¸¿˜Ó1
-e
-java:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(¢¦ˆÍ8“¸¿˜Ó1
-_
-java:S6201"BReplace this instanceof check and cast with 'instanceof Bicycle t'(»í¢8”¸¿˜Ó1
-L	java:S106"+Replace this use of System.out by a logger.(ï‡ıÿÿÿÿ8”¸¿˜Ó1
-L	java:S106""+Replace this use of System.out by a logger.(¢øİêÿÿÿÿÿ8”¸¿˜Ó1
