@@ -162,3 +162,15 @@ S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
+[
++src/main/structural/bridge/app/Android.java,6/2/62edcca1740e2129f04061b76dfa9a94778c7d85
+Z
+*src/main/structural/bridge/os/PhoneOS.java,2/8/284c066155a4ef0b55af5263ab2d3505c31e0062
+W
+'src/main/structural/bridge/app/IOS.java,4/8/485f5925d1c553024700f08424b93b0a19462602
+[
++src/main/structural/bridge/os/Facebook.java,6/7/6779071e359933051e9f690d25e0c79a09176ee9
+W
+'src/main/structural/bridge/app/App.java,1/d/1d2eed3bed397286c0d92633e801f8f60a389fc2
+\
+,src/main/structural/bridge/os/Instagram.java,f/9/f9948297cf1be556c8db553f5d0c7367ebfc23ba

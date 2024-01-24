@@ -1,4 +1,6 @@
-package main.structural.bridge;
+package main.structural.bridge.os;
+
+import main.structural.bridge.app.App;
 
 public class Instagram implements App {
 

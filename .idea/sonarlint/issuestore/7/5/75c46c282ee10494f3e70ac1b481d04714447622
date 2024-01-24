@@ -1,0 +1,11 @@
+
+l
+java:S1104"QMake color a static final constant or non-public and provide accessors if needed.(æ®şôûÿÿÿÿ
+i
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¢¦ˆÍ
+^
+java:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(¢¦ˆÍ
+X
+java:S6201"BReplace this instanceof check and cast with 'instanceof Bycicle t'(ÆæĞõ
+E	java:S106"+Replace this use of System.out by a logger.(ï‡ıÿÿÿÿ
+E	java:S106""+Replace this use of System.out by a logger.(¢øİêÿÿÿÿÿ

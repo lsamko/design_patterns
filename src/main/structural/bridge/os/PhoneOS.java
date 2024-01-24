@@ -1,4 +1,4 @@
-package main.structural.bridge;
+package main.structural.bridge.os;
 
 public interface PhoneOS {
 

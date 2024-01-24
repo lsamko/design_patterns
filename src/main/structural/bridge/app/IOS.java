@@ -1,4 +1,6 @@
-package main.structural.bridge;
+package main.structural.bridge.app;
+
+import main.structural.bridge.os.PhoneOS;
 
 public class IOS implements PhoneOS {
 
