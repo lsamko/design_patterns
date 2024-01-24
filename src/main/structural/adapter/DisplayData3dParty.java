@@ -1,11 +1,11 @@
 package main.structural.adapter;
 
-public class DisplayData3dPatry {
+public class DisplayData3dParty {
 
     public float index;
     public String data;
 
-    public DisplayData3dPatry(float index, String data) {
+    public DisplayData3dParty(float index, String data) {
         this.index = index;
         this.data = data;
     }

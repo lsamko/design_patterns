@@ -1,5 +1,11 @@
 package main.structural.bridge;
 
-public class PhoneOS {
+public interface PhoneOS {
+
+    void upload(String data);
+
+    void download(String url);
+
+    void display(String data);
 
 }

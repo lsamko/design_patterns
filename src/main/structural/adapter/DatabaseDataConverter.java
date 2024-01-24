@@ -1,5 +1,9 @@
 package main.structural.adapter;
 
-public interface DatabaseDataCOnverter {
+import java.util.List;
+
+public interface DatabaseDataConverter {
+
+    List<DisplayData3dParty> convertData(List<DatabaseData> databaseData);
 
 }

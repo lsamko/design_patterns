@@ -1,32 +1,32 @@
 package main.creational.prototype;
 
-public class Bycicle extends Vehicle {
+public class Bicycle extends Vehicle {
 
-    public String color;
+    public boolean cityBike;
 
-    public Bycicle(int wheels, long price, String color) {
+    public Bicycle(int wheels, long price, boolean cityBike) {
         this.wheels = wheels;
         this.price = price;
-        this.color = color;
+        this.cityBike = cityBike;
     }
 
-    public Bycicle(Bycicle target) {
+    public Bicycle(Bicycle target) {
         super(target);
         if (target != null) {
-            color = target.color;
+            this.cityBike = target.cityBike;
         }
     }
 
     @Override
     public Vehicle clone() {
-        return new Bycicle(this);
+        return new Bicycle(this);
     }
 
     @Override
     public boolean isClone(Vehicle target) {
-        if (target instanceof Bycicle) {
-            Bycicle t = (Bycicle) target;
-            if (color.equals(t.color) && wheels == t.wheels && price == t.price) {
+        if (target instanceof Bicycle) {
+            Bicycle t = (Bicycle) target;
+            if (cityBike == t.cityBike && wheels == t.wheels && price == t.price) {
                 System.out.println(this + " and " + t + " are clones");
                 return true;
             }

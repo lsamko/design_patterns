@@ -10,9 +10,10 @@ public class Instagram implements App {
 
     @Override
     public void runApp() {
-        os.upload("Facebook data upload");
-        os.download("facebook.com");
-        os.display("Facebook data download");
+        os.display("cached data");
+        os.upload("Instagram data upload");
+        os.download("instagram.com");
+        os.display("Instagram fresh data");
         System.out.println("-----------------");
     }
 }
