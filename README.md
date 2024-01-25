@@ -1,4 +1,4 @@
-This masterclass covers 3 types of design patterns with code samples
+This masterclass covers 3 types of design patterns with code samples: 
 
 Creational
 
