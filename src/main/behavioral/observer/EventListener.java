@@ -1,4 +1,4 @@
-package main.behavioral;
+package main.behavioral.observer;
 
 public interface EventListener {
 

@@ -1,4 +1,4 @@
-package main.behavioral;
+package main.behavioral.observer;
 
 import java.util.ArrayList;
 import java.util.HashMap;

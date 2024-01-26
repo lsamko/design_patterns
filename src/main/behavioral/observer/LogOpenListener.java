@@ -1,4 +1,4 @@
-package main.behavioral;
+package main.behavioral.observer;
 
 public class LogOpenListener implements EventListener{
 
